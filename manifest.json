@@ -1,0 +1,20 @@
+{
+
+    "description": "Changes itau ua under windows to make it work without Guardiao Internet",
+    "manifest_version": 2,
+    "name": "Itaunix",
+    "version": "1.1",
+    "homepage_url": "https://github.com/marcelovk/itaunix",
+    "icons": {
+      "48": "chameleon.png"
+    },
+  
+    "permissions": [
+      "webRequest", "webRequestBlocking", "https://*.itau.com.br/*" 
+    ],
+    
+    "background": {
+      "scripts": ["useragentchanger.js"]
+    }
+  }
+  
