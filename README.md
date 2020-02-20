@@ -1,11 +1,11 @@
 * ITAUNIX
 
 Essa extensão apenas muda o conteúdo dos headers enviados para itau.com.br/* para que diga
-Linux ao invés de Windows
+FREEBSD OS ao invés de Windows/Linux
 
 ** POR QUÊ???
 
-Porque eu não quero instalar o guardiao ou o aplicativo do itaú no meu Desktop. 
+Porque eu não quero instalar o guardiao ou o aplicativo do itaú no meu Desktop.
 
 ** É Seguro?
 
